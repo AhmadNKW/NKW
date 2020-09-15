@@ -80,7 +80,7 @@ h1 {
     font-family: Comic Sans MS;
     font-size: 16px;
     cursor: pointer;
-    /* float: right; */
+    float: right;
 }
 
 .btn .Button:hover {
@@ -105,7 +105,7 @@ h1 {
     font-size: 16px;
     font-family: Comic Sans MS;
     cursor: pointer;
-    /* float: right; */
+    float: right;
     margin-left: 15;
 }
 
@@ -247,9 +247,9 @@ h1 {
 
 hr {
     width: 160;
-    display: inline-block;
+    display: block;
     border: none;
-    /* float: left; */
+    float: left;
     height: 10px;
     margin-top: 5px;
 }
